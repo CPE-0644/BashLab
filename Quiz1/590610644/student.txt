@@ -1,0 +1,8 @@
+No.	FirstName	LastName	Score
+5593	Narthip	Tiangtae	45
+5560	Somchai	AAAAA	56
+5502	Kanchana	BBBB	89
+5512	Pae1	Ahoaho	100
+5580	Som	CCC	43
+5582	Kana	DDD	87
+

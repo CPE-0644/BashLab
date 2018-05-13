@@ -1,0 +1,9 @@
+dog
+cat
+duck
+elephant
+buffalo
+cow
+bird
+horse
+chicken

@@ -1,0 +1,10 @@
+aaa bbbb ccc
+bbb ccc ddd
+cc narathip
+ddd baka
+eee aho
+fffff
+1 2
+2 3
+3 4
+4 5

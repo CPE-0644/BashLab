@@ -1,0 +1,24 @@
+     1	Narathip
+     2	sansanee
+     3	trasapong
+     4	dome
+     5	juggapong
+     6	karn
+     7	yuttapong
+     8	narissara
+     9	anya
+    10	sanpawat
+    11	lachana
+    12	sakgasit
+    13	
+    14	
+    15	arnan
+    16	
+    17	
+    18	arnan
+    19	patiwet
+    20	narathip
+    21	narathip
+    22	
+    23	
+    24	karn
